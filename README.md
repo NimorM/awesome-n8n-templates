@@ -18,7 +18,6 @@ All automation templates in this repository were found online and are uploaded h
 
 ---
 
-
 ## Categories & Template List
 
 ---
