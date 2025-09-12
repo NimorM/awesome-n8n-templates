@@ -2,7 +2,7 @@
 "nodes": [
 {
 "id": "38972c5c-09f4-4120-a468-731e720914e1",
-"name": "AI Agent",
+"name": "AI Agent for Project Management",
 "type": "@n8n/n8n-nodes-langchain.agent",
 "position": [
 900,
